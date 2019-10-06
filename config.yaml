@@ -1,0 +1,19 @@
+# input output file path data
+io_files:
+  output_path: "../data/output.bmp"
+
+general_params:
+  verbose: false         # enable / disable the output (true / false)
+  visualization: true   # enable / disable the visualizations (true / false)
+
+image_params:
+  nx: 200
+  ny: 100
+  ns: 10
+
+camera_params:
+  lookfrom: [13, 2, 3]
+  lookat: [0,0,0]
+  dist_to_focus: 10.0
+  aperture: 0.1
+  fov: 30
