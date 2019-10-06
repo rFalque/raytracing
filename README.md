@@ -2,7 +2,11 @@
 
 See [the source of the authors](https://github.com/RayTracing/raytracing.github.io)
 
+![final rendering](./data/050_success.bmp "final rendering")
+
 # Journey between debug and success
+
+![steps](./data/journey.gif "steps")
 
 ## Day 1
 
