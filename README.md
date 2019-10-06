@@ -7,6 +7,7 @@ See [the source of the authors](https://github.com/RayTracing/raytracing.github.
 # Journey between debug and success
 
 Each rendering produced during the development (including the buggy ones):
+
 ![steps](./data/journey.gif "steps")
 
 ## Day 1
